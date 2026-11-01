@@ -1,0 +1,6 @@
+{
+  "server_ip": "10.0.0.1",
+  "server_port": 5000,
+  "controller_ip": "127.0.0.1",
+  "controller_rest_port": 8080
+}

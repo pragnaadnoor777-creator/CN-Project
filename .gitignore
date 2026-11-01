@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+venv/
+logs/
+results/raw/*.pcap
+.DS_Store
