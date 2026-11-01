@@ -1,1 +1,1 @@
-# CN-Project
+Online Examination Network (SDN + TCP Sockets)
